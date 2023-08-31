@@ -1,5 +1,5 @@
-Going into the matrix 
-https://camo.githubusercontent.com/47e863baa8acfd24b09931a6c669b325c59cdacf025a9e034f60d2e0e07851eb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e47596f77414a65456f74595274567a6d4e2f67697068792e676966
+Going into the matix
+
 Hi 👋, i am Hephzibah ijeje
 A passionate software developer
 
