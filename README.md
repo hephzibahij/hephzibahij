@@ -14,10 +14,16 @@ hephzibahijeje89@gmail.com
 about me:
 
 My name is Hephzibah .O. Ijeje, an Anzisha prize fellow, an Economist
-I am a passionate full stack developer in port harcourt, River state
+
+
+I am a passionate full stack developer in port harcourt, River state.
+
+
 I am part of the student in the alx-software enginerring programme and for the past week i have develop skills, software ebginnering was bot that easy for me but it is through courage and preservance that i attain. it has broaden my jnowledge about it and also very interesting.i have also been able to network with my friends,going for tech programmes.
 
+
 I am passionate in solving problem
+
 I am currently learning c programming language ,python
 
 
