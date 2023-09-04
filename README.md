@@ -5,9 +5,19 @@ Going into the matix
 Hi 👋, i am Hephzibah ijeje
 A passionate software developer
 
-connect with me via 
+connect with me via
+
 facebook.com/hephzibah.ijeje
+
+
 instagram.com/zibah_ijeje
+
+![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/e406abb4-ffac-457a-b739-dbcdb260e949)
+
+
+![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/be0cf65b-9c11-4dfc-a3ec-de1dda1618c5)
+
+
 ![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/9fefd2ba-3ac3-4e2b-b74d-22f17c43ddae)
 
 hephzibahijeje89@gmail.com
