@@ -2,7 +2,7 @@
 
 ![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/ceaf39f6-c2c2-4b1f-9cf9-8cecad3305ed)
 
-Hi 👋, i am Hephzibah ijeje
+# Hi 👋, i am Hephzibah ijeje
 A passionate software developer
 
 connect with me via
