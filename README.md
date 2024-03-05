@@ -1,4 +1,4 @@
-Going into the matix
+# Going into the matix
 
 ![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/ceaf39f6-c2c2-4b1f-9cf9-8cecad3305ed)
 
@@ -20,9 +20,11 @@ instagram.com/zibah_ijeje
 
 ![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/9fefd2ba-3ac3-4e2b-b74d-22f17c43ddae)
 
-hephzibahijeje89@gmail.com
 
-about me:
+![image](https://github.com/hephzibahij/hephzibahij/assets/128981877/c32ad64d-76bb-4605-bae0-68d186606cb7)
+
+
+# about me:
 
 My name is Hephzibah .O. Ijeje, an Anzisha prize fellow, an Economist
 
