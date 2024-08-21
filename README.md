@@ -10,15 +10,10 @@
 . 💞️ I’m looking to collaborate on exciting and challenging frontend Project 
 
 - 📫connect with me via
-![image](https://github.com/user-attachments/assets/0081e5c7-b3e0-4ee9-8011-07b866d1b999)
-![image](https://github.com/user-attachments/assets/9ce1e381-ad7c-4384-a2d1-495b07c931dd)
-![image](https://github.com/user-attachments/assets/4fecac51-c376-4069-9c88-d57764661fac)
-![image](https://github.com/user-attachments/assets/326c1b6d-1fc8-4dc7-a3c4-05421d2f4077)
-
+- Email
+- 
 # Tech Stack
 ![image](https://github.com/user-attachments/assets/301e344b-1f7b-4975-92c6-6c338715284b)
-
-# 📊 GitHub Stats:
 
 
 # 🏆 GitHub Trophies
