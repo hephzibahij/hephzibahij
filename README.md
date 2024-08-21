@@ -4,14 +4,21 @@
 
 # I'm Hephzibah Ijeje, you can call me Zibah
 . My name is Hephzibah .O. Ijeje, an Anzisha prize fellow, an Economist,A passionate software developer . 
+
 . 👀I am part of the student in the alx-software enginerring programme and for the past week i have develop skills .
-. 👩🏻‍💻software ebginnering was bot that easy for me but it is through courage and preservance that i attain. 
+
+. 👩🏻‍💻software ebginnering was bot that easy for me but it is through courage and preservance that i attain.
+
  .🌱 it has broaden my jnowledge about it and also very interesting.i have also been able to network with my friends,going for tech programmes.
+ 
 . 💞️ I’m looking to collaborate on exciting and challenging frontend Project 
 
 - 📫connect with me via
 - Email
-- 
+- Skype
+- Linkedin
+
+
 # Tech Stack
 ![image](https://github.com/user-attachments/assets/301e344b-1f7b-4975-92c6-6c338715284b)
 
