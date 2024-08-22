@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hephzibahijeje89@gmail.com**
 
-- 📄 Know about my experiences [software enginnering it was not that easy for me but it is through courage and preservance that i attain.](software enginnering it was not that easy for me but it is through courage and preservance that i attain.)
+- 📄 Know about my experiences [software enginnering it was not that easy for me but it is through courage and preservance that i attain.]software enginnering it was not that easy for me but it is through courage and preservance that i attain.
 
 - ⚡ Fun fact **I love collaborating on projects**
 
