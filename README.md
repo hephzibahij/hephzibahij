@@ -1,34 +1,49 @@
-# Hi 👋
-
-![image](https://github.com/user-attachments/assets/90483d18-79d5-4cb4-ad13-1afd64183bf1)
-
-# I'm Hephzibah Ijeje, you can call me Zibah
-. My name is Hephzibah .O. Ijeje, an Anzisha prize fellow, an Economist,A passionate software developer . 
-
-. 👀I am part of the student in the alx-software enginerring programme and for the past week i have develop skills .
-
-. 👩🏻‍💻software ebginnering was bot that easy for me but it is through courage and preservance that i attain.
-
- .🌱 it has broaden my jnowledge about it and also very interesting.i have also been able to network with my friends,going for tech programmes.
- 
-. 💞️ I’m looking to collaborate on exciting and challenging frontend Project 
-
-- 📫connect with me via
-- Email
-- Skype
-- Linkedin
+<h1 align="center">Hi 👋, I'm Hephzibah Ijeje</h1>
 
 
-# Tech Stack
-![image](https://github.com/user-attachments/assets/301e344b-1f7b-4975-92c6-6c338715284b)
+<img src="https://avatars.githubusercontent.com/u/128981877?v=4" alt="picture">
 
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-# 🏆 GitHub Trophies
-![image](https://github.com/user-attachments/assets/5535780e-20a5-4543-8bc1-f18ff72c2566)
-![image](https://github.com/user-attachments/assets/3893e215-264c-47b3-bfff-61aec2684630)
-![image](https://github.com/user-attachments/assets/bceb73d1-bc66-4915-bdfa-65fb1b0f8dcb)
-![image](https://github.com/user-attachments/assets/54441de3-08dd-4bd2-8c4d-fd157d9a24ef)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hephzibahij" alt="hephzibahij" /></a> </p>
 
-# ✍️ Random Dev Quote
-![image](https://github.com/user-attachments/assets/a460974c-562a-41d7-a873-013e2ba70384)
+<p align="left"> <a href="https://twitter.com/hephzibah_ijeje" target="blank"><img src="https://img.shields.io/twitter/follow/hephzibah_ijeje?logo=twitter&style=for-the-badge" alt="hephzibah_ijeje" /></a> </p>
 
+- 🔭 I’m currently working on [Recyclift](https://github.com/hephzibahij/recyclift-web)
+
+- 🌱 I’m currently learning **ALX, Frontend Development**
+
+- 👯 I’m looking to collaborate on [Website Project](https://github.com/hephzibahij/recyclift-web)
+
+- 🤝 I’m looking for help with [Recylift](https://github.com/hephzibahij/recyclift-web)
+
+- 👨‍💻 All of my projects are available at [https://landingpage-rho-three.vercel.app/](https://landingpage-rho-three.vercel.app/)
+
+- 💬 Ask me about **Html, Css, React**
+
+- 📫 How to reach me **hephzibahijeje89@gmail.com**
+
+- 📄 Know about my experiences [software enginnering it was not that easy for me but it is through courage and preservance that i attain.](software enginnering it was not that easy for me but it is through courage and preservance that i attain.)
+
+- ⚡ Fun fact **I love collaborating on projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/hephzibahij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hephzibahij" height="30" width="40" /></a>
+<a href="https://twitter.com/hephzibah_ijeje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hephzibah_ijeje" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hephzibah-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hephzibah-i" height="30" width="40" /></a>
+<a href="https://fb.com/zibah ijeje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zibah ijeje" height="30" width="40" /></a>
+<a href="https://instagram.com/zibah_ijeje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zibah_ijeje" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hephzibahij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hephzibahij" /></a><a href="https://ko-fi.com/hephzibahij"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hephzibahij" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hephzibahij&show_icons=true&locale=en&layout=compact" alt="hephzibahij" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hephzibahij&show_icons=true&locale=en" alt="hephzibahij" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephzibahij&" alt="hephzibahij" /></p>
