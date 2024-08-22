@@ -42,11 +42,13 @@
 <h3 align="center">Dev Quote:</h3>
 <p align="center"><img src="https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hephzibahij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hephzibahij" /></a><a href="https://ko-fi.com/hephzibahij"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hephzibahij" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hephzibahij&show_icons=true&locale=en&layout=compact" alt="hephzibahij" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hephzibahij&show_icons=true&locale=en&layout=compact" alt="hephzibahij" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hephzibahij&show_icons=true&locale=en" alt="hephzibahij" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephzibahij&" alt="hephzibahij" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hephzibahij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hephzibahij" /></a><a href="https://ko-fi.com/hephzibahij"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hephzibahij" /></a></p><br><br>
